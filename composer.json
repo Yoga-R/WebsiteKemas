@@ -1,0 +1,13 @@
+{
+    "name": "kemas/donasi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoga-r",
+            "email": "yogariski27@gmail.com"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.3"
+    }
+}
